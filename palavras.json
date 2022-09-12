@@ -1,0 +1,11 @@
+
+{
+    
+    "estados":[["Acre","Pará","Goiás","Bahia","Ceará"],["Alagoas","Amazonas","Maranhão","Paraná","Pernambuco"],["RiodeJaneiro","SãoPaulo","SantaCatarina","MatoGrossodoSul","RioGrandedoNorte"]],
+
+    "frutas":[["maçã","limão","uva","pera","figo"],["banana","laranja","cereja","ameixa","mamão"],["groselha","framboesa","cocoverde","melancia"]],
+
+    "capitais":[["Recife","Natal","Belém","Maceió","Manaus"],["Florianópolis","Curitiba","Goiânia","Fortaleza","Salvador"],["SãoPaulo","RiodeJaneiro","CampoGrande","RioBranco","SãoLuís"]],
+
+    "objetos":[["mesa","sofá","cama","fogão","lápis"],["microondas","geladeira","computador","mousepad","televisão"],["descascador","liquidificador","bumerangue","desentupidor","desodorante"]]
+}
